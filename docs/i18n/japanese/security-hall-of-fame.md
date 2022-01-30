@@ -1,6 +1,6 @@
-# Responsible Disclosure - Hall of Fame
+# 責任ある開示 - 殿堂入り
 
-We appreciate any responsible disclosure of vulnerabilities that might impact the integrity of our platforms and users. If you are interested in contributing to the security of our platform, please read our [security policy outlined here](https://contribute.freecodecamp.org/#/security).
+私たちのプラットフォームおよびユーザーの整合性に影響を与える可能性のある脆弱性について、責任ある開示をお願いします。 If you are interested in contributing to the security of our platform, please read our [security policy outlined here](https://contribute.freecodecamp.org/#/security).
 
 While we do not offer any bounties or swags at the moment, we are grateful to these awesome people for helping us keep the platform safe for everyone:
 
